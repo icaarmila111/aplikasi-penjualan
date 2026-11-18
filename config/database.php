@@ -1,4 +1,7 @@
 <?php
 //config/database.php
 
-$host =git init
+$host = 'localhost';
+$user = 'root';
+$pass = '';
+$db = 'penjualan';

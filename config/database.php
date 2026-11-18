@@ -1,4 +1,4 @@
 <?php
 //config/database.php
 
-$host =
+$host =git init
